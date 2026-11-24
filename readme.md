@@ -1,6 +1,7 @@
 # Olist eCommerce SQL & Tableau Analysis
 
 End-to-end SQL (MySQL) and Tableau analysis of 96K+ Brazilian eCommerce orders from the Olist dataset, evaluating fulfillment performance, top products, customer behavior, revenue trends, and retention drivers.
+**[Dataset acquired from Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
 
 **[View Interactive Dashboards on Tableau Public](https://public.tableau.com/app/profile/eugenia5101/viz/OlisteCommerce/CXRetentionStrategy)**
 
